@@ -12,7 +12,7 @@ MongoClient
     //   console.log(response);
     // })
 
-    // deleteOne
+    // deleteOned
     // db.collection('Todos').deleteOne({text: "Go to walk"}).then((response) => {
     //   console.log(response);
     // })
